@@ -6,8 +6,8 @@ Archivos `*.shp` y `*.geojson` para el proyecto de Resiliencia de la Ciudad de M
 
 **1. División Política de la Zona Metropolitana de la Ciudad de México**
 
-* División Municipal
+* [División Municipal](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Zona%20Metropolitana/EdosZM.geojson)
 * División Estatal
-* Perímetro total
+* [Perímetro total](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Zona%20Metropolitana/ZMVM_shell.geojson)
 
 _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
