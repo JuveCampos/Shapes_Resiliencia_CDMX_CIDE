@@ -26,3 +26,8 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 
 * [Pozos Sacmex]()
 
+
+_Para acceder a esta información desde R o Python, dar click derecho a cada archivo, seleccionar "copiar enlace" y leer el archivo desde su entorno de preferencia._
+
+
+
