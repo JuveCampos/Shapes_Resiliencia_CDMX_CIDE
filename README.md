@@ -29,5 +29,6 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 
 _Para acceder a esta información desde R o Python, dar click derecho a cada archivo, seleccionar "copiar enlace" y leer el archivo desde su entorno de preferencia._
 
+_Por ejemplo: geopandas.read_file("Nombre_archivo.geojson") desde Python o sf::st_read("Nombre_archivo.geojson") desde R.
 
 
