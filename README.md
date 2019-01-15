@@ -24,7 +24,7 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 
 **5. Infraestructura**
 
-* [Pozos Sacmex]()
+* [Pozos Sacmex](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Infraestructura/Pozos_Sacmex2.geojson)
 
 
 _Para acceder a esta información desde R o Python, dar click derecho a cada archivo, seleccionar "copiar enlace" y leer el archivo desde su entorno de preferencia._
