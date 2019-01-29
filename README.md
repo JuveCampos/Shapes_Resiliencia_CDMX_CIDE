@@ -20,7 +20,7 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 
 **3. División política Estatal**
 
-* [División Política Estatal](https://github.com/JuveCampos/MexicoSinIslas/raw/master/Sin_islas.geojson)
+* [División Política Estatal Nacional](https://github.com/JuveCampos/MexicoSinIslas/raw/master/Sin_islas.geojson)
 
 **5. Infraestructura**
 
