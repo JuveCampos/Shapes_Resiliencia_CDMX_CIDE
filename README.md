@@ -17,6 +17,7 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 * [División Municipal](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Shape%20Ciudad%20de%20México/CDMX_mpal.geojson)
 * [Perímetro](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Shape%20Ciudad%20de%20México/CDMX_perimetro.geojson)
 * [Áreas Geográgicas Estadísticas Básicas (AGEBs). Censo 2010.](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Zona%20Metropolitana/Ageb.geojson)
+* [Colonias Ciudad de México] (https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/Poligono_colonias.geojson)
 
 **3. División política Estatal**
 
