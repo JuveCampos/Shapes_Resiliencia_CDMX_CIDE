@@ -10,6 +10,7 @@ Archivos `*.shp` y `*.geojson` para el proyecto de Resiliencia de la Ciudad de M
 * [División Estatal](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Zona%20Metropolitana/EstadosZMVM.geojson)
 * [Perímetro total](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Zona%20Metropolitana/ZMVM_shell.geojson)
 * [Códigos Postales](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/cp_zona_metropolitana.geojson)
+* [Codgeos @ *.csv](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/Archivos/mpios_codgeo.csv)
 
 _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 
