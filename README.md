@@ -25,6 +25,11 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 
 * [División Política Estatal Nacional](https://github.com/JuveCampos/MexicoSinIslas/raw/master/Sin_islas.geojson)
 
+
+**4. División Municipal**
+
+* [División Municipal](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/mpios2.geojson)
+
 **5. Infraestructura**
 
 * [Pozos Sacmex](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Infraestructura/Pozos_Sacmex2.geojson)
