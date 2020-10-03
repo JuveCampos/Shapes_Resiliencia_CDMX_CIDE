@@ -24,6 +24,7 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 **3. División política Estatal**
 
 * [División Política Estatal Nacional](https://github.com/JuveCampos/MexicoSinIslas/raw/master/Sin_islas.geojson)
+* [Menos Islas](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/mpios_con_menos_islas_aun.geojson)
 
 
 **4. División Municipal**
