@@ -32,6 +32,13 @@ _Fuente: [CONABIO](http://www.conabio.gob.mx/informacion/gis/)_
 * [División Municipal](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/mpios2.geojson)
 * [Menos Islas](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/mpios_con_menos_islas_aun.geojson)
 
+**5. Catálogos **
+
+
+* [Catálogo de municipios](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/Datos/cat_mun_revisado.csv)
+
+* [Catálogo de entidades](https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/Datos/cat_edos.csv)
+
 **5. Infraestructura**
 
 * [Pozos Sacmex](https://github.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/raw/master/Infraestructura/Pozos_Sacmex2.geojson)
